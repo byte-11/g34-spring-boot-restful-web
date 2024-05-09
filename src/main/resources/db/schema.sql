@@ -1,0 +1,1 @@
+CREATE TABLE users(id bigserial, username varchar);
